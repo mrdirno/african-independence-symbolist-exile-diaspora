@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-symbolist-exile-diaspora",
+  "title": "The Sankofa Key",
+  "tagline": "A son must decode his father's poetic rebellion to rescue him from the silence of the new regime.",
+  "target_words": 70000,
+  "actual_words": 69509,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Political Inheritance",
+    "Exile as Both Refuge and Prison",
+    "The Diaspora as a Living Archive",
+    "Symbolism as Resistance and Memory"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Grey Mist",
+      "words": 2896
+    },
+    {
+      "ch": 2,
+      "title": "The Barrister's Chambers",
+      "words": 2750
+    },
+    {
+      "ch": 3,
+      "title": "The Exile Who Never Left",
+      "words": 2800
+    },
+    {
+      "ch": 4,
+      "title": "Ghosts in the Archive",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Map of Absences",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "Songs from the War",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "The Pendragon's Secret",
+      "words": 2850
+    },
+    {
+      "ch": 8,
+      "title": "A Network of Whispers",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "The Weight of the Key",
+      "words": 2750
+    },
+    {
+      "ch": 10,
+      "title": "Letters on Bleeding Ink",
+      "words": 3200
+    },
+    {
+      "ch": 11,
+      "title": "The Poet's Silence",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "Chasing the Sankofa",
+      "words": 3100
+    },
+    {
+      "ch": 13,
+      "title": "The London Lock",
+      "words": 2800
+    },
+    {
+      "ch": 14,
+      "title": "Brittle Telephone Wires",
+      "words": 2700
+    },
+    {
+      "ch": 15,
+      "title": "Metaphor as Shield",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "The Cost of Remembering",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "Compound Walls",
+      "words": 2850
+    },
+    {
+      "ch": 18,
+      "title": "The Old Bones of London",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "A Mission Unwanted",
+      "words": 2750
+    },
+    {
+      "ch": 20,
+      "title": "The Hawk and the Hen",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "Converging Paths",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "The Unenforceable Clause",
+      "words": 2850
+    },
+    {
+      "ch": 23,
+      "title": "Building the Future Backwards",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Answer in the Grey",
+      "words": 3023
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Ama in Kumasi, describing the 'too quiet' house and the symbol on the wall to a cousin in another country.",
+      "Create a monologue for Ebenezer Okoh, reflecting on his choice to stay in London and use 'their rules against them' the night before Kofi arrives.",
+      "Draft the 'radio broadcast' that prompted the authorities to come for Kwame Mensah. What did he say, or what did they claim he said?",
+      "Imagine the contents of the locked space the key opens. Describe the first object Kofi finds inside and the memory or message it triggers."
+    ],
+    "technical": [
+      "Build an interactive map tracing Kofi's journey through London, layering historical sites of imperial law with locations of diasporic resistance and community.",
+      "Create a 'Symbol Decoder' tool that allows users to input descriptions of artifacts (like the sankofa bird or the key) and generates potential metaphorical meanings based on West African proverbs and post-colonial theory."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Toni Morrison",
+      "W.G. Sebald",
+      "James Baldwin"
+    ]
+  },
+  "cover_prompt": "A young man in a modern apartment, his back to us, intently studies a worn, leather-bound journal filled with handwritten verse and cryptic diagrams, while outside the rain-streaked window, the ghostly, symbolic silhouette of a Sankofa bird—reaching back—is superimposed over a blurred, oppressive cityscape of a near-future African metropolis. The scene is imbued with a sense of urgent, quiet deciphering, surrounded by relics of exile: a single suitcase, a faded photograph of a proud man in revolutionary attire, and a key resting on the journal's open page. In the richly textured, allegorical, and emotionally resonant style of Wangechi Mutu and the symbolic narrative depth of Lina Iris Viktor, with elements of Lynette Yiadom-Boakye's contemplative intimacy. Book cover framing, centered composition with the subject slightly off-center, viewed from a close, intimate over-the-shoulder angle that draws the eye into the journal's mysteries. Dramatic chiaroscuro lighting with a single desk lamp casting warm, golden pools of light on the journal and key, contrasting with the cool, melancholic blues and greys of the rainy night outside, punctuated by the deep burnt orange and gold of the Sankofa bird. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
