@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The rain in London had a different weight to it. It wasn’t the fat, warm drops of home that fell like a blessing, drumming a steady rhythm on broad leaves before surrendering to the red earth. This rain was a fine, grey mist, a persistent sigh that seeped into wool coats and settled in the bones. It blurred the sharp edges of the buildings along Bayswater Road, turning the world into a watercolour of gloom.
 
@@ -86,7 +88,9 @@ The rain had started again when Kofi stepped outside. He turned his collar up ag
 
 ---
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The house on Alkham Road did not declare itself. It sat, slumped and soot-stained, at the end of a terrace of similarly weary Victorian buildings. Its neglect was a kind of camouflage; the peeling paint, the one missing slate on the roof like a missing tooth, the small front garden choked with brambles and the skeletal remains of a rose bush. This was not a place of pilgrimage. It was a place forgotten.
 
@@ -174,7 +178,9 @@ He began to read, and the London outside, the damp and the distant traffic, fell
 
 ---
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 Kofi read until the words swam on the page and the single bulb seemed to hum with a malignant energy. His father’s journal was not a diary of feelings; it was a forensic ledger. Dates, locations, initials, sums of money in pounds sterling, cryptic notes on “understanding reached with Colonial Office liaison,” or “funds diverted via Liverpool merchant.”
 
@@ -246,11 +252,13 @@ He was not on the same side as Gerald Biney. He was on his father’s side. The 
 
 He turned away from the bright lights of the high street, melting back into the darker residential roads. He needed a new place to stay. The Pendragon Hotel was compromised. He needed to read the rest of the journal, to understand it fully. And he needed to talk to Uncle Ebo. Not as a family friend, but as a barrister. The first major complication had not just arrived; it had sat down, smiled, and shown him its credentials. The game was no longer about finding answers. It was about surviving the questions. And Kofi, armed only with his father’s dangerous truth and a carved wooden bird, was now a player.
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The rain had stopped, but the damp remained. It clung to the city like a second skin, a chill exhalation from the Thames that misted the windows of the night bus and turned the streetlamps into smudged halos of sulfur-yellow light. Kofi rode in the upper deck, at the front, his satchel heavy on his lap. The journal was a lodestone, its pull gravitational, warping the geometry of the night around him. He was not heading towards the central conflict; he was being drawn into its orbit, a small satellite tugged by the dark mass of his father’s past.
 
@@ -285,8 +293,7 @@ A sigh, weary and unsurprised. “Take the 28 bus. Get off at Brondesbury Park. 
 “In the morning, Kofi.” The line went dead.
 
 The bus groaned through Maida Vale, past grand white stucco houses sleeping behind black iron fences. Kofi watched his own reflection ghosted over the passing city. He was a blur, a smudge of brown against the night. An exile in a diaspora of one, carrying a secret that belonged to a different soil. The attaché’s visit had made the borders of his world suddenly, violently clear. There was the sanctioned space, the well-lit path of the good son. And there was this: the back streets, the empty flat, the key under a flowerpot. His father’s side.
-
-The flat was a time capsule of brown and orange, a relic of the 1970s that smelled of dust and old polish. The furniture was sparse: a sagging sofa, a Formica table, two mismatched chairs. A electric fire with fake coals sat cold in the grate. Kofi locked the door behind him and slid the chain across. He did not turn on the main light, only a small lamp on a side table, which cast long, anxious shadows up the textured wallpaper.
+  - The flat was a time capsule of brown and orange, a relic of the 1970s that smelled of dust and old polish. The furniture was sparse: a sagging sofa, a Formica table, two mismatched chairs. A electric fire with fake coals sat cold in the grate. Kofi locked the door behind him and slid the chain across. He did not turn on the main light, only a small lamp on a side table, which cast long, anxious shadows up the textured wallpaper.
 
 He placed his satchel on the table, unzipping it with deliberate care. He took out the journal first, its leather cover cool and familiar. Then, the cloth-wrapped bundle. He unfolded the fabric, revealing the sankofa bird. The lamplight caught the deep, rich grain of the wood, the elegant curve of the neck reaching back. It was not an ornament. It was a compass, pointing perpetually to the past. He set it on the table facing him, a silent witness.
 
@@ -338,8 +345,7 @@ He stared at the list. It was a map of a battlefield where he was outnumbered an
 He thought of his father’s mention of Geneva. A contact. A name? There was nothing in the journal. Perhaps his father had been too cautious to write it down. Or perhaps Erasmus had been the link, and the chain had died with him.
 
 A deep fatigue, heavier than jet lag, settled into his bones. It was the fatigue of carrying a corpse—the corpse of his father’s unfinished fight. He wrapped the journal again, placed it and the bird back in his satchel, and put the satchel under the lumpy cushion of the sofa. He lay down on the floor, using his coat as a blanket, staring at the water-stained ceiling. The final preparation was not in gear or plans, but in the quiet, terrible acceptance in the dark. He was in the game. And the first rule of the game was that people got hurt.
-
-Uncle Ebo arrived just after seven, with the dawn a thin, grey line at the edges of the curtains. He let himself in with a key, his movements quiet and precise. Kofi, who had slept in fitful bursts, was already sitting at the table, the satchel at his feet.
+  - Uncle Ebo arrived just after seven, with the dawn a thin, grey line at the edges of the curtains. He let himself in with a key, his movements quiet and precise. Kofi, who had slept in fitful bursts, was already sitting at the table, the satchel at his feet.
 
 Ebo Asare was a tall man, unbent by his seventy years. He wore a dark wool overcoat and a hat, which he removed to reveal a closely-shaved head. His face was a landscape of deep lines and intelligent, watchful eyes. He did not smile. He placed a brown paper bag on the table—two warm meat pies and a thermos of tea—and hung his coat neatly over the back of a chair.
 
@@ -406,8 +412,7 @@ It was a plan. A fragile, tenuous beginning. A team of two, strategizing in a du
 “Thank you, Uncle Ebo.”
 
 Ebo waved a hand, as if brushing away sentiment. “Do not thank me. Your father was my friend. And the law,” he said, with a grim finality, “should be for something.”
-
-The obstacle was not a person, but a system. It was the sheer, mundane, impregnable wall of digital and bureaucratic silence.
+  - The obstacle was not a person, but a system. It was the sheer, mundane, impregnable wall of digital and bureaucratic silence.
 
 The copy shop was in Kilburn, a cramped place smelling of toner and warm plastic. Ebo waited outside, a watchful sentinel. Kofi fed the journal’s pages into the machine, the light scanning back and forth, capturing his father’s anguish in stark black and white. He made three sets. One for Ebo. One to hide. One to work from. The originals felt sacred, their texture and slight imperfections a part of their truth. The copies were ghosts, but they were ghosts that could be multiplied, shared, weaponized.
 
@@ -466,8 +471,7 @@ Kofi thought of his father, alone on his veranda. He thought of Erasmus, meeting
 He stood up, tucking his magazine under his arm. “Your fifteen minutes are up. Welcome to the shadows, Kofi Mensah. It is colder here than the rain.”
 
 He walked away, his figure quickly swallowed by the darkness beyond the circle of light. Kofi sat on the bench, the slip of paper clutched in his hand. The meeting was over. He had passed the first obstacle, the gatekeeper’s test. He had been given a path forward, a tenuous thread leading to Hamburg. But he had also been given a new weight: the act of dissemination. Once he sent that page, the journal was no longer his alone. His father’s secret would begin its journey into other hands, with all the peril and promise that entailed.
-
-He walked back towards the Tube station, not taking the direct route, but winding through the quieter streets of Bloomsbury. The grand Georgian houses stood aloof behind their black railings, their windows glowing with a warm, contained light. He felt a million miles from those rooms, from any kind of safety. He was in the space between, the exile’s space, where home was a memory and sanctuary was a temporary, borrowed flat.
+  - He walked back towards the Tube station, not taking the direct route, but winding through the quieter streets of Bloomsbury. The grand Georgian houses stood aloof behind their black railings, their windows glowing with a warm, contained light. He felt a million miles from those rooms, from any kind of safety. He was in the space between, the exile’s space, where home was a memory and sanctuary was a temporary, borrowed flat.
 
 The moment of reflection was not a quiet, noble thing. It was a storm of doubt and fear, swirling in the vacuum left by the journalist’s departure. He thought about the potential sacrifice. It wasn’t abstract anymore. It was his future. His degree, his career, his uncomplicated life. It was his mother, alone in Accra, waiting for her successful son to make her proud. It was his own safety. Biney had been polite. The next visit might not be.
 
@@ -487,11 +491,13 @@ And in that moment, he would cross a line from which there was no return. The ga
 
 He turned his back on the quiet canal and walked into the London night, a solitary figure carrying a fire he was about to light. The hook was set, not in the world, but in his own soul. The next chapter would be written in the language of consequence.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The silence in the flat was a physical presence. It was not the quiet of an empty room, but the dense, watchful hush of a held breath. Kofi stood just inside the door, the cheap laminate floor cold beneath his socks. He had shed his wet shoes and coat in the hallway, a ritual of normalcy that felt like a pantomime. The rain from the canal walk had seeped into his jumper, leaving a damp chill that clung to his shoulders, but it was a distant sensation. All his awareness was funneled into the small desk in the corner of the room, where his laptop sat, a closed black lid hiding a sleeping eye.
 
@@ -507,7 +513,7 @@ It was perfect. A diaspora of a molecule. Uprooted, its nature twisted. It was s
 
 Kofi took the page to the flat’s communal printer, a wheezing machine in the hallway that smelled of hot plastic and toner. The act of placing the page on the glass, of pressing the green button, was obscenely mundane. The light passed beneath it, capturing the truth. The machine whirred, groaned, and spat out a perfect, sterile copy. The original felt warmer, more alive, as he returned it to the folio. The copy was a ghost, a detached spirit ready to be sent into the ether.
 
-Back at his desk, he opened the laptop. The screen’s blue glow was the only light in the room. He navigated to a web-based email service he had never used, created an account with a name generated from random words and numbers. The address was a nonsense string: [cassia.torch.87@mailservice.com](mailto:cassia.torch.87@mailservice.com). A ghost name for a ghost document.
+Back at his desk, he opened the laptop. The screen’s blue glow was the only light in the room. He navigated to a web-based email service he had never used, created an account with a name generated from random words and numbers. The address was a nonsense string: cassia.torch.87@mailservice.com. A ghost name for a ghost document.
 
 He typed the Hamburg address from the torn card, each keystroke a deliberate hammer-strike. The subject line was blank. In the body, he wrote nothing. The silence of the message was more threatening than any words. He attached the scanned page. The file hung there, a digital pendant. Akokoɔ nnua no.
 
@@ -522,8 +528,7 @@ The sound was a soft, digital sigh. Whoosh. The screen refreshed. Message Sent.
 Nothing happened. The flat did not shake. No alarm sounded. The rain continued its whisper against the window. He had expected a tremor in the world, a sign that he had thrown a stone into a still, deep pond. There was only the mundane hum of the laptop’s fan.
 
 He sat in the perfect anti-climax, the void where consequence had not yet rushed in to fill the space. He had lit the fire. Now he had to wait to see what it would burn.
-
-The knock, when it came two days later, was not on his door.
+  - The knock, when it came two days later, was not on his door.
 
 He was in the British Library, buried in a microfilm reader, tracing the obscure publication history of a defunct German chemical journal. The page had been sent, but the game, he understood now, was not passive. He had to learn the board. The musty, academic smell of old paper and machine oil was a comfort. Here, he was still a researcher. Here, the past was orderly, catalogued, safe.
 
@@ -586,8 +591,7 @@ She turned and walked away, her heels making no sound on the floor, and was swal
 Kofi stood alone in the tower of books, surrounded by the collected knowledge of the empire, and felt the totality of his defeat. He had sought to be a hunter, but he was still prey. He had tried to ask questions, and had instead been given an ultimatum. Become a weapon for another, or become a corpse. His father’s truth, the fire he had lit, was now just a bargaining chip. The cost of his choice on the canal was coming due, and it was his entire legacy, his very self.
 
 He had lost. Not just the battle, but the right to his own war.
-
-He did not go back to the flat. He walked, directionless, through the damp streets of Bloomsbury. The fine rain returned, beading on his hair and coat. He saw threats in every smile, in every passing glance. The city was no longer a place of study; it was a grid of channels and threats, just as he had feared. Irina’s words had carved the reality into him.
+  - He did not go back to the flat. He walked, directionless, through the damp streets of Bloomsbury. The fine rain returned, beading on his hair and coat. He saw threats in every smile, in every passing glance. The city was no longer a place of study; it was a grid of channels and threats, just as he had feared. Irina’s words had carved the reality into him.
 
 He found himself outside a small, locked Georgian square. Through the black iron railings, he could see a bare, weeping willow, its branches a curtain of despair. He gripped the cold bars, his knuckles white. This was the depth. The defeat. The sacrifice demanded was his father’s work—not to avenge it, but to surrender it to another power, to become a paid servant in a hidden war. To trade one form of silence for another. It was the death of the hope that had driven him from Accra: the hope that he could reclaim his father’s name, loudly, in the light.
 
@@ -602,8 +606,7 @@ He loosened his grip on the railings. The revelation was cold and clear, a shaft
 It was a path of profound dishonesty. It required him to sacrifice his peace, his authenticity, his open face. He would have to become a ghost in the machine, a smiling, compliant exile. The transformation was total. It was not a change of tactic, but a change of soul. He would have to will himself into becoming the thing he needed to be.
 
 He pushed away from the railings. The decision was made. It felt less like a choice and more like a mineral forming under pressure—hard, cold, and definitive.
-
-He returned to the flat as night fell. He ignored the shaking in his hands now. They were a symptom of the old Kofi. The new one had work to do.
+  - He returned to the flat as night fell. He ignored the shaking in his hands now. They were a symptom of the old Kofi. The new one had work to do.
 
 He spent the night at his laptop, not with fear, but with a surgeon’s focus. He did not simply scan the folio. He photographed every page in high resolution. He created two digital copies. One he prepared for Irina’s server, a clean, complete package. The other he encrypted with a password he built from a Twi proverb his father loved, and uploaded it to a cloud locker only he could access. A seed bank of truth, stored in the digital ether.
 
@@ -617,11 +620,13 @@ An email notification chimed, a soft, foreign sound in the quiet flat. It was fr
 
 He closed the laptop. The hook was no longer just set in his soul; it was now cast into the deep, dark water of the machine itself. He had become the thing the powerful would have to reckon with—not a son shouting from the outside, but a silent, patient toxin in the bloodstream. The next chapter would be written in the language of duplicity, and he would have to learn to speak it flawlessly. For the first time since his father died, he did not feel afraid. He felt cold. He felt ready. He was the transplanted vine, and he would learn to poison their well from within.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The cold readiness that had filled him at dawn had settled into a low, constant hum, like the vibration of a distant generator. It was not warmth. It was the absence of feeling anything else. Kofi dressed with a methodical care he hadn’t possessed before, choosing a dark suit that felt less like clothing and more like a uniform for a war fought in boardrooms and secure servers. The address in the City was a postcode, not a name. A grid reference in the heart of the machine.
 
@@ -656,8 +661,7 @@ Irina’s gaze was unwavering. “The file on your father’s case has been… r
 It was not justice. It was the possibility of its shadow. It was all he had.
 
 “Welcome inside,” she said, and for the first time, he understood the word not as a sanctuary, but as a cage of his own choosing.
-
-He met Kwame and Esi that evening in a cramped, steamy Ghanaian restaurant in Dalston, a world away from the silent room underground. The air was thick with the scent of kelewele and groundnut soup, a fragrant, shouting warmth that felt like a memory. He had brought a bottle of akpeteshie, the clear, fiery spirit tasting of home.
+  - He met Kwame and Esi that evening in a cramped, steamy Ghanaian restaurant in Dalston, a world away from the silent room underground. The air was thick with the scent of kelewele and groundnut soup, a fragrant, shouting warmth that felt like a memory. He had brought a bottle of akpeteshie, the clear, fiery spirit tasting of home.
 
 “To the ghost,” Kwame said, raising a small glass, his eyes bright. “Who walks through walls and comes out with a new life!”
 
@@ -680,8 +684,7 @@ Later, outside in the chill, Esi held his arm. “The man who came to the museum
 “He was something else. Private. Well-resourced. He had the smell of government, but not ours.” She looked at him, her nurse’s eyes missing nothing. “You have stepped into a stream, Kofi. The current is strong. Do not think you can stand still in it.”
 
 He kissed her cheek, the scent of spices and spirit clinging to her skin. “I am already moving, Auntie,” he said. And it was the truth.
-
-The consequences announced themselves two days later, not with a shout, but with a silent, digital gasp.
+  - The consequences announced themselves two days later, not with a shout, but with a silent, digital gasp.
 
 He was in his new, sparse office at the Latham Institute, a sterile cube with a view of more glass and steel. He had used his keycard, accessed the systems, begun the numb, meticulous work of tracing artefacts. It was a grotesque parody of his father’s life’s work—not to authenticate history, but to audit theft.
 
@@ -711,8 +714,7 @@ He clicked it. It opened a secure portal, a live feed. The image was grainy, fro
 The new, immediate danger was not a chase. It was a quarantine. They were not regrouping. They were applying pressure. Isolating him. Demonstrating that his new position was not a weapon, but a leash. And that they held the other end.
 
 He logged out. He walked out of the Latham Institute, the keycard heavy in his pocket. The needling rain had stopped, leaving the city glistening, hard and cold. He did not go to Tottenham. He did not call Kwame. He walked, a ghost among the living, feeling the architecture of the trap he had willingly entered. He had chosen the loop over the noose. Now he saw the loop was made of the people he cherished, and it was tightening.
-
-He found himself, hours later, not at home, but standing before the museum. It was closed, the great pillars lit by amber security lights. The scene of the ordeal. He looked up at the window he had climbed through, now repaired, invisible. The reward he had claimed—the passport, the position, the fragile hope for his father—felt like ashes in his mouth. It was a prize that poisoned everything it touched.
+  - He found himself, hours later, not at home, but standing before the museum. It was closed, the great pillars lit by amber security lights. The scene of the ordeal. He looked up at the window he had climbed through, now repaired, invisible. The reward he had claimed—the passport, the position, the fragile hope for his father—felt like ashes in his mouth. It was a prize that poisoned everything it touched.
 
 He thought of the folio, sleeping in Irina’s server and in his encrypted cloud. A seed bank of truth. Truth was a toxin. And he had injected it into his own life.
 
@@ -748,11 +750,13 @@ The figure in the shadows dropped his cigarette, crushed it under his heel, and 
 
 Kofi turned and walked into the city, not waiting to see what would follow. The river was flooding. Let it come.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The rain had stopped, but the damp remained. It hung in the air of the pre-dawn city, a cold, metallic vapour that coated the throat and clung to the skin. London was not asleep, not here, in the arterial veins around Paddington. It was in a state of suspended animation, a machine idling between the night’s last drunk and the morning’s first commuter. Kofi walked through this grey liminal space, the echo of his sent email a hollow resonance in his chest. The act had been a detonation. Now he was walking through the silent, expanding shockwave, waiting for the sound to catch up.
 
@@ -910,11 +914,13 @@ The hook, embedded so deep, gave a painful, hopeful tug. Not everything was ash.
 
 But as he looked out the window at the waking city, he knew the geometry had changed again. He was no longer a point, or a seed. He was a pivot. And every eye, friendly and hostile, would now be turning towards him, waiting to see which way he would lean, and what new world his weight would bring crashing down.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The safe house was a flat in a nameless brick block in a part of London that existed only for passing through. It was the architectural equivalent of a murmured apology, all beige carpets and faint smells of old cooking and industrial cleaner. The detective, whose name was Anya, led him up three flights of stairs, her movements efficient and quiet. She did not speak. The silence between them was a third presence, filled with the echo of sirens and the ghost-scent of cordite.
 
@@ -1047,11 +1053,13 @@ We are ready.
 
 The hook tugged, not with pain, but with purpose. The next world was waiting. And he would not be building it alone.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The rain had stopped, but London held its dampness close, a chill exhale trapped between the buildings. The air in Peckham had a different taste to it—sharp with fried plantain and diesel, thick with the murmur of Yoruba and Twi from open windows. It was not the quiet, resigned sigh of Bayswater. Here, the world pressed in, vibrant and demanding. Kofi walked its familiar streets, the cloth-wrapped bundle now tucked inside his coat, a quiet weight against his ribs. He was not returning a hero. He was returning a man, bearing a single, hard-won truth.
 
@@ -1146,11 +1154,13 @@ He smiled, a small, weary thing. He closed the notebook.
 
 Let them come.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The light in London had a different quality to it now. It wasn’t the forgiving, golden haze of a Harmattan morning, nor was it the old, oppressive grey shroud. It was a clear, brittle winter light that laid everything bare, picking out the cracks in the pavement, the glint of a bottle cap in the gutter, the determined set of a man’s shoulders as he walked. It was a light for seeing things as they were.
 
@@ -1175,10 +1185,7 @@ He laughed then, a short, surprised sound that seemed to startle the dust motes 
 The work continued. Kofi fitted new shelves in the small kitchen, his movements measured, exact. He found a deep satisfaction in the alignment of wood, the snug bite of a screw. This was a creation. A small, solid defiance against the entropy of the world. Anya painted the trim around the windows, her strokes fierce and clean. They did not speak of Theophilus, or of the cold knot of watchers in the night. They spoke of undercoat and gloss, of where to put the new football table, of the persistent damp patch in the storeroom that might require a professional.
 
 This was the new work. The maintenance of a sanctuary. It was no less vital.
-
-		
-
-In the afternoon, he took the bus to Crystal Palace. The journey felt different. The streets were not a labyrinth to be endured, but a map he was learning to read. He got off a stop early, walking through the park where the skeletal remains of the Victorian palace thrust like giant, fossilised bones against the sky. The air was sharp with the scent of frost and wet earth.
+  - In the afternoon, he took the bus to Crystal Palace. The journey felt different. The streets were not a labyrinth to be endured, but a map he was learning to read. He got off a stop early, walking through the park where the skeletal remains of the Victorian palace thrust like giant, fossilised bones against the sky. The air was sharp with the scent of frost and wet earth.
 
 Esi’s house was a semi-detached on a quiet road, its small front garden a tangle of winter roses. He had not called ahead. He stood at the gate, the old hesitation rising in him—the sense of bringing a world of trouble to a clean doorstep. Then he pushed the gate open. Its hinge sang a single, high note.
 
@@ -1223,10 +1230,7 @@ He thought of Anya’s fierce painting, her sharp nods, the way she held a space
 Esi’s expression softened. “That is what you need. Not someone to plaster over them.” She reached out and briefly covered his hand with hers. Her skin was warm. “You will bring her for Sunday supper. Next week. The children want to see their uncle who builds things.”
 
 It was not forgiveness, exactly. Forgiveness was too simple a transaction for the complex ledger of their history. It was a redefinition. A new line drawn, in pencil, not ink. He was no longer the ghost at the edge of the family. He was the uncle who built things. It was a start. It was everything.
-
-		
-
-That evening, Kofi sat again at the desk by the tall window. The notebook was open before him. The single line, We begin, had been joined by others. Not a chronicle of violence, but a catalogue of small resurrections.
+  - That evening, Kofi sat again at the desk by the tall window. The notebook was open before him. The single line, We begin, had been joined by others. Not a chronicle of violence, but a catalogue of small resurrections.
 
 Fixed the latch on the garden gate. It sings now.
 Told Kwame a story about the spider Anansi and the foolish tiger. He laughed.
@@ -1262,11 +1266,13 @@ The hook in his chest remained still. But his mind, clear in the brittle winter 
 
 I am here.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The morning after the watcher, the rain had lifted, leaving behind a sky the colour of a faded bruise and pavements that shone like dark slate. The air in Kofi’s flat held the quiet, dense quality of settled dust. He moved through his rituals—the careful brewing of tea, the alignment of tools on his workbench for a job he would not start today—with a deliberate slowness. The clarity from the night before, that protective geometry, was a blueprint in his mind. But blueprints required surveying the land. They required knowing which walls were load-bearing, which foundations were sound.
 
@@ -1295,8 +1301,7 @@ A faint line appeared between Anya’s eyebrows. “You, who avoids borrowing a 
 “I will ask,” Kofi said, “if they have had any trouble. If anything seems… amiss. As a neighbour would.”
 
 She studied him for a long moment, then gave a single, slow blink. “The elixir of community. Administered in careful doses. Go, then. But Kofi?” He paused at the door. “Do not mistake understanding for control. Some threads are not meant to be woven in.”
-
-The door of number forty-two was painted a cheerful, defiant blue. It felt out of place on the grey street, like a forgotten piece of summer sky. Kofi raised his hand to knock, the action feeling foreign, theatrical. Before his knuckles could land, the door swung inward.
+  - The door of number forty-two was painted a cheerful, defiant blue. It felt out of place on the grey street, like a forgotten piece of summer sky. Kofi raised his hand to knock, the action feeling foreign, theatrical. Before his knuckles could land, the door swung inward.
 
 A man stood there, perhaps in his late forties, with a kind, tired face and a neat turban of deep navy. He was holding a child’s lunchbox in one hand. “Yes? Can I help—” He stopped, recognition dawning. “You’re from down the street. The carpenter.”
 
@@ -1365,8 +1370,7 @@ She was silent for a long time, polishing the same spot on the bell. “This is 
 “It is the only medicine for this sickness,” Kofi said. “Community is a membrane. It can be pierced. Or it can be made resilient.”
 
 She nodded. “I will listen.”
-
-The next three days were a study in visible normality. Kofi worked on a set of bookshelves for a client in Kensington, the rhythmic planing and sanding a meditation. But in the evenings, he walked. He walked with Jaspreet Dhaliwal, talking of nothing—the cost of timber, the relentless damp, a new Indian grocery that had opened two streets over. They walked in the early dark, past the railway arch, their conversation easy, their posture unafraid. Sometimes Anya would join them, her sharp eyes missing nothing. They were a knot in the weave, deliberately tightened.
+  - The next three days were a study in visible normality. Kofi worked on a set of bookshelves for a client in Kensington, the rhythmic planing and sanding a meditation. But in the evenings, he walked. He walked with Jaspreet Dhaliwal, talking of nothing—the cost of timber, the relentless damp, a new Indian grocery that had opened two streets over. They walked in the early dark, past the railway arch, their conversation easy, their posture unafraid. Sometimes Anya would join them, her sharp eyes missing nothing. They were a knot in the weave, deliberately tightened.
 
 Kofi also visited the local art supply shop, the stationer’s, the newsagent that sold pens and cheap notebooks. He asked idle questions about paper weights, about archival inks, showing a craftsman’s curiosity. At the third shop, a cramped, dusty place near the tube station, the elderly proprietor nodded.
 
@@ -1387,8 +1391,7 @@ Instead, he went to Jaspreet. He did not give him the name or the address. He ga
 Jaspreet’s wife, Simran, had joined them. She held her husband’s hand. “You have done this for us? Why?”
 
 Kofi looked at the model aeroplane on the table, at the textbooks. At a sanctuary, built brick by brick in a foreign rain. “Because a latch lifted against one is a threat to all,” he said. “And I am a man who fixes latches.”
-
-The resolution was quiet, undramatic. It was the opposite of the climax the wire-thin man must have craved. Jaspreet and Simran went to the police with a new file, compiled with a draughtsman’s own neatness: the old letters, photographs of the sketch fragment, a statement about the watcher, and a professional analysis of the unique ink. Kofi provided a supporting statement, as a witness. He was a carpenter, a man of solid facts. The police, presented with a clear, actionable case rather than a fog of fear, visited the Peabody flats.
+  - The resolution was quiet, undramatic. It was the opposite of the climax the wire-thin man must have craved. Jaspreet and Simran went to the police with a new file, compiled with a draughtsman’s own neatness: the old letters, photographs of the sketch fragment, a statement about the watcher, and a professional analysis of the unique ink. Kofi provided a supporting statement, as a witness. He was a carpenter, a man of solid facts. The police, presented with a clear, actionable case rather than a fog of fear, visited the Peabody flats.
 
 There was no arrest. Not yet. But there was a formal warning. A visit from a community liaison officer. The landlord had a quiet word. The membrane had flexed, firmly, pushing the thorn back.
 
@@ -1414,11 +1417,13 @@ Down in the street, a different car, sleek and unfamiliar, pulled up and parked.
 
 Kofi did not move from the window. He did not reach for the old geometry. He simply watched. And waited for the new thread to declare itself.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- CHAPTER 27
+CHAPTER 27
 
 The rain in London had a different weight to it now. It was no longer a fine, grey mist that seeped into the bones, but a known quantity, a rhythm against the windowpane that spoke of seasons rather than exile. It fell on the small, vibrant garden Kofi had coaxed from the stubborn patch of earth behind the house—on the hardy rosemary, the defiant sunflowers that had bowed their heavy heads at summer’s end, and the dark, rich soil that was no longer entirely foreign. It fell on the repaired latch of Mrs. Adebayo’s gate, and on the sleek, anonymous car that had sat for three hours that morning before gliding away, a threat that had chosen, for now, to remain potential. The rain did not blur the world into a watercolour of gloom, but deepened its colours, made the green of the awning across the street a more profound emerald.
 
@@ -1528,11 +1533,13 @@ The rain in London had a different weight to it. It wasn’t the fat, warm drops
 
 Kofi Mensah stood at his workbench, his hands steady, listening to the whisper of the blade as it met the wood, shaping the future, one sure, quiet shaving at a time.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The wood on Kofi’s bench was not maple, but ash. It had a different song. Where maple offered a high, sweet whisper, ash gave a low, fibrous hum, a resistance that spoke of tensile strength, of bows and tool handles and things meant to bear a load. It was fitting. The drafting tool holder for Sam was a gift of departure, a map of roots for a boy about to stretch his branches. This new piece, taking shape under his plane, was something else. It was an anchor.
 
@@ -1672,11 +1679,13 @@ The rain began again, a soft patter on the workshop’s skylight. It was the wea
 
 Kofi Mensah stood in the silent workshop, the completed box before him, his hands stained with ash and steel-dust. He listened to the rain, and he listened to the deeper quiet within the house, where his family slept, where their future was dreaming. The hook was set. Not for him, but for the past itself, which he had now firmly, irrevocably, attached to the future. The coming confrontation was no longer a threat from outside. It was a design feature, a joint he had chosen to cut, and it would hold.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The rain on the skylight was a soft percussion, a private music for the hour before the world woke. Kofi did not move from his bench. The box sat before him, a still centre in the workshop’s comfortable clutter. Its pale ash grain seemed to drink the weak dawn light, while the blackened steel sankofa hook absorbed it, a dark pupil in a pale eye. The click of the latch still echoed in the bones of his hands, a vibration finer than sound.
 
@@ -1788,11 +1797,13 @@ He folded the letter, sealed it in an envelope. He would post it first thing. Th
 
 He stood at the bedroom window, looking out at the night. The rain had stopped. The clouds had torn, and a hazy moon cast a weak silver light over the glistening rooftops of London. The exile was over. The diaspora was turning. He was no longer a man waiting for the trembling in his hands to stop. He was a man whose hands had built the vessel that would now carry him, and his truth, across the water. The hook was set. The line was taut. All that remained was the long, steady pull.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The sea was a different kind of exile. It was not the grey, sighing mist of London, but a vast and indifferent blue, a rolling plain of salt and memory that stretched to every horizon. It held no landmarks, only the sun’s pitiless track by day and a bowl of cold stars by night. The SS Aurelia, a workhorse of the West Africa Line, carved a furrow of white foam through it, a temporary scar on an ancient skin. The vibration of the engines was a constant hum in the bones, a deeper tremor than the city’s traffic.
 
@@ -1851,8 +1862,7 @@ He placed a card on the rail between them. It was plain, with only a name: Mikha
 “Consider the offer,” Mikhal said. Then he nodded once, a sharp, final gesture, and walked away, his solid form soon absorbed by the deck’s geometry.
 
 Kofi picked up the card. The paper was thick, expensive. He looked from it to the box in his arms. The story was no longer a seed to be planted. It was a beacon, and it had drawn its first predator. The trembling, which had left his hands, had settled now in the pit of his stomach. He was not waiting anymore. He was being hunted.
-
-The days fell into a strained rhythm. The sea shifted from Channel grey to Atlantic blue-green. The air grew warmer, thicker, carrying the first forgotten scent of the tropics—a damp, vegetal promise on the wind. Kofi divided his time between the cabin, the small second-class lounge, and solitary walks on the deck, always with the box. He saw Mikhal occasionally, speaking with officers or other passengers, but the man only ever gave him a brief, acknowledging glance.
+  - The days fell into a strained rhythm. The sea shifted from Channel grey to Atlantic blue-green. The air grew warmer, thicker, carrying the first forgotten scent of the tropics—a damp, vegetal promise on the wind. Kofi divided his time between the cabin, the small second-class lounge, and solitary walks on the deck, always with the box. He saw Mikhal occasionally, speaking with officers or other passengers, but the man only ever gave him a brief, acknowledging glance.
 
 Sarah sensed the new tension in him. She did not press, but her hands were more frequent on his arm, her silences more attentive. One afternoon, as Esi napped in a deckchair wrapped in a blanket, Sarah stood with him at the rail.
 
@@ -1897,8 +1907,7 @@ The well-dressed man is aboard. First Class, Cabin A-12. He has made inquiries w
 Kofi read it twice, then held the corner of the paper to the lamp’s flame. It blackened, curled, caught. He dropped it into the metal ashtray on the small desk and watched it consume itself, leaving only a fragile ghost of ash. He crushed the ash to dust.
 
 He had a name for the tremor now. It was not fear. It was a cold, clarifying fury. The man had stepped out of the London mist and onto his path. He had violated the sanctuary of the journey. Kofi looked at his sleeping family. Then he checked his watch. He had an hour.
-
-The service areas of the ship were a world of echoing metal, dripping pipes, and frantic heat. Kofi moved through them like a shadow, guided by hurried directions Mikhal had whispered to him during a brief pass on the deck that afternoon. He felt the class divisions here most acutely: this was the sweating, labouring underbelly that made the polished wood and soft music of the decks above possible.
+  - The service areas of the ship were a world of echoing metal, dripping pipes, and frantic heat. Kofi moved through them like a shadow, guided by hurried directions Mikhal had whispered to him during a brief pass on the deck that afternoon. He felt the class divisions here most acutely: this was the sweating, labouring underbelly that made the polished wood and soft music of the decks above possible.
 
 He found the narrow corridor behind the First Class galley. The air was thick with the smell of roasting meat and rich sauce, a far cry from the plainer smells of the second-class kitchen. Through a round window in a swinging door, he could see a sliver of the dining saloon—white tablecloths, crystal glinting under chandeliers, the murmur of conversation and the clink of silver.
 
@@ -1943,8 +1952,7 @@ Mikhal considered him. “It is risky. The radio operator is… flexible, for a 
 “What is the message?”
 
 Kofi looked toward the galley door, beyond which the man named Drayton sipped his wine. “It is a change of soil. The seed cannot be planted where the gardener is waiting with shears.”
-
-The following days were a taut wire. Kofi avoided the main decks, spending time with Sarah and Esi in their cabin or in obscure corners of the ship. He saw Drayton only once more, from a distance, taking the morning air on the first-class promenade, reading a newspaper as if he hadn’t a care in the world. The normality of the act was its own kind of threat.
+  - The following days were a taut wire. Kofi avoided the main decks, spending time with Sarah and Esi in their cabin or in obscure corners of the ship. He saw Drayton only once more, from a distance, taking the morning air on the first-class promenade, reading a newspaper as if he hadn’t a care in the world. The normality of the act was its own kind of threat.
 
 The sea changed colour again, to a milky, sediment-touched green. Birds with long, angular wings began to circle the masts. The air lost the last of its chill, becoming a warm, damp blanket. Land was near.
 
@@ -1988,11 +1996,13 @@ They were alone on the dark water, the ship’s engines already thrumming again,
 
 Kofi held Sarah and Esi close. The box was at his feet. He looked back at the receding lights of the Aurelia, a floating palace of order and taxonomy, sailing on to its expected port. He was no longer on its manifest. He was a wake, a memory it was already forgetting. He was in the black water, moving against the current, carrying his truth into the mouth of the continent. The exile was over. The return had begun, not with a stamp in a passport, but with a stolen arrival under a sky beginning to bleed grey at the edges. The long, steady pull was now a race, and the finish line was home.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The launch did not cut through the water so much as burrow into it, a low, blunt creature of tarred wood and rusted iron. Its engine was a wet, asthmatic gasp, fighting the black swell that rose from the deep continental shelf. The smell that enveloped them was not a single scent, but a layered history. Salt, yes, and the wet mineral breath of rock. But under that, the sweet, profound rot of mangrove and mudflat, the ghost of woodsmoke from unseen villages, the dry, peppery dust of the harmattan still clinging to the air from months before. It was the smell of a land that consumed and remembered everything.
 
@@ -2170,11 +2180,13 @@ Kwame looked up from a notebook, his face pale. “This one… it details the ma
 
 The decision was made. The press, that iron beast, would soon awake. It would give voice to the names in the ledger. The race was no longer just to arrive, but to be heard. As the first clatter of typesetting began, a sound like distant gunfire in the close, ink-scented room, Kofi knew the silence was over. The reckoning had found its tongue. And in the bustling, indifferent city outside, the hunters would be listening for its first, dangerous word.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The clatter of the press was a living thing. It filled the back room of Kwame’s bookshop, a percussive, mechanical heartbeat that vibrated in the teeth and thrummed through the floorboards. It was not the sound of distant gunfire Kofi had first imagined, but something more visceral: the sound of bones being unearthed, of stones being turned over. Each revolution of the iron drum was an act of exhumation.
 
@@ -2308,11 +2320,13 @@ She read all twenty-seven. Each name was a stone dropped into the still pool of 
 
 He looked at Esi’s profile in the dim light, her lips moving with the solemn rhythm of a prayer. The hook for the next day’s work was not an event, but a sound—the first, tentative rustle of a pamphlet changing hands in the harsh light of a new morning, and the quiet, listening engine of a black car starting a few streets away, its hunters tuning their ears to a frequency they did not yet understand, but already feared.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The morning arrived not with a sun, but with a slow, colourless leaching of the dark. It was a thief’s dawn, grey and soundless, stealing the edges from the world. In the small room, the air was thick with the smell of old paper, cold tea, and the sharp, metallic scent of resolve. The last name from Esi’s lips—Akua, aged six—had hung in the silence for hours, a final, unanswerable chord. Now, the silence was different. It was the quiet of a drawn bowstring.
 
@@ -2398,11 +2412,13 @@ He had thought the work was in the distribution, in the brave, public sowing. He
 
 The hook of the next day’s work was not a sound, but a silence. It was the silence of a safe house that would never be safe again, of a network gone to ground so deep it might never resurface. It was the silence in Kofi’s own chest, where the hopeful rhythm of the press had been replaced by the slow, cold beat of a different truth: he was not a sower. He was a ghost, haunting a country that had already written him out of its story. And the only thing left to do was to haunt it so well, so persistently, that the writers of that story would feel a chill on their necks, even in the bright, pitiless sun.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The silence in Kofi’s chest was not empty. It was a chamber, and within it, the cold beat of his heart was an echo against walls of polished stone. He stood by the sea wall until the hammered silver of the ocean began to tarnish into lead, until the interrogator sun slid behind a bank of cloud, granting a reprieve that felt like a verdict. The satchel at his feet was a prop in a cancelled play. He picked it up, the leather smooth and useless against his fingers.
 
@@ -2490,11 +2506,13 @@ He had thought the work was in the speaking. Then, he had thought the work was i
 
 The hook for the next day’s work was not a sound or a silence, but a name, carried on the night air like a seed on the wind. Ahenkro. The place where the river forgets its name. And he knew, with the certainty of a man who has shed every other skin, that to find it, he would have to forget his own name, too. He would have to become the message, walking.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The road to Ahenkro was not a road at all, but a memory of one. It was a scar of red earth, overgrown at the edges by insistent elephant grass, that wound through low, rolling hills. The lorry, having shed its cargo of charcoal and chickens at a crossroads market that was little more than a collection of faded umbrellas, now carried only Kofi and three other passengers: an old woman with a basket of smoked fish that perfumed the air with a pungent, ancient sweetness, and two young men in dust-caked work clothes, their bodies slack with exhaustion. The vehicle groaned on its springs, its tires slipping in the deep ruts left by the last rains.
 
@@ -2666,11 +2684,13 @@ The river chuckled softly over its stones. The freedom of a moment ago crystalli
 
 He turned and walked away from the river, not toward the village, but east, into the rising darkness of the hills. He was a man with no name, carrying a book that was not what it seemed, being hunted by a light in the trees. The exile’s journey was over. The fugitive’s had just begun.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The hills east of Ahenkro were not like the soft, green folds of the Kwahu scarp. These were ancient bones pushing through a thin skin of earth, studded with thorn and granite, breathing out a dry, mineral scent. The darkness here was not a blanket but a substance, pooling in the crevices, thickening under the skeletal arms of acacia trees. Kofi moved through it with the deliberate, ground-sensing tread of a man who had left paths behind. The satchel, a familiar weight against his hip, was no longer a scholar’s burden. It was a gambit, a piece on a board he could not see.
 
@@ -2689,8 +2709,7 @@ They were herding him. The light on the river had been a nudge, pushing him east
 He had no network. He had a name he was trying to forget and a story he had buried in a river. He was alone. The realization was not a spike of fear, but a cold, settling fact, as undeniable as the rock at his back. His exile was over. His diaspora was this: a man scattered from his own history, fleeing across a landscape that held no memory of him, carrying a phantom of a legacy.
 
 He pushed off from the rock and moved again, not faster, but with a new direction. East, but angling north now, toward the rougher, more broken country where the granite teeth bit sharper at the sky. If they wanted to herd him, he would choose the thickest part of the brush. He would make the herding costly.
-
-Dawn came not with colour but with a gradual leaching of the darkness into a granular grey. The world resolved into shapes of tired green and dusty brown. Kofi crouched in a thicket of wild sisal, the sword-like leaves edged with a brittle light. His mouth tasted of dust and adrenaline. He had not slept. The presence had dogged him all night, a shadow at the edge of his senses, sometimes fading for an hour, sometimes seeming to close the distance before falling back. It was a dance, and his partner knew all the steps.
+  - Dawn came not with colour but with a gradual leaching of the darkness into a granular grey. The world resolved into shapes of tired green and dusty brown. Kofi crouched in a thicket of wild sisal, the sword-like leaves edged with a brittle light. His mouth tasted of dust and adrenaline. He had not slept. The presence had dogged him all night, a shadow at the edge of his senses, sometimes fading for an hour, sometimes seeming to close the distance before falling back. It was a dance, and his partner knew all the steps.
 
 He needed water. The thought was a dry ache in his throat. The river was behind him, and the hills were stingy with their springs. He knew from the old surveys in the decoy book that a seasonal stream cut through a valley a few miles to the north-east. It would likely be a chain of muddy pools now, but it was a chance.
 
@@ -2725,8 +2744,7 @@ He dropped to his knees behind a rock, his heart a frantic drum against his ribs
 He could not go back. He could not go down. He looked to the north, where the kopjes grew taller, merging into a proper ridge. It was brutal, waterless country. It might kill him. But the car in the valley would not kill him. It would take him. It would take the decoy book. And then the men with cold, attentive eyes would ask him where the real one was. They would ask him about his father’s contacts, about the interrupted broadcast, about the names in the margins. They would ask until the story was not a story anymore, but a confession, broken into useful pieces.
 
 He turned his back on the valley and began to climb the ridge.
-
-The rock was unforgiving. It scraped his palms, turned his ankles. The sun was a weight. His thoughts began to fray at the edges, looping back to fragments. The rain in London had a different weight to it. A persistent sigh. The old man is gone. Not to Accra, but gone. His father’s voice, reading from his own manuscript: “The carrier does not own the story. He is its custodian. And sometimes, the only act of custody left is to lose it so completely that no one else can find it.”
+  - The rock was unforgiving. It scraped his palms, turned his ankles. The sun was a weight. His thoughts began to fray at the edges, looping back to fragments. The rain in London had a different weight to it. A persistent sigh. The old man is gone. Not to Accra, but gone. His father’s voice, reading from his own manuscript: “The carrier does not own the story. He is its custodian. And sometimes, the only act of custody left is to lose it so completely that no one else can find it.”
 
 Had he lost it? He had buried it. But burial was a location. Loss was a state of being. To truly lose the story, he would have to forget the riverbank. He would have to become the story’s grave. The thought was a dark, swirling pool at the edge of his mind.
 
@@ -2814,11 +2832,13 @@ Kofi leaned his head against the hot glass. In his closed fist, pressed against 
 
 The Land Rover picked up speed, kicking a plume of dust into the still air. Behind them, the ridge receded, a stark line against the sky. And on its highest point, just for a moment, the sun glinted on something—a lens, a watch-glass, perhaps just a piece of mica in the rock. A single, watching point of light. Then it was gone, swallowed by the distance.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The Land Rover did not take the road to the capital. It turned east, onto a track that ran parallel to the dry riverbed, a pale scar through the thorn scrub. The vehicle’s movement was a new kind of stillness. Kofi sat in the hot, sealed silence of the back, a fly buzzing against the window beside his head. The two men in front did not speak. The radio was off. The only sounds were the grind of the engine, the crunch of tyres on gravel, the occasional crack of a dry branch beneath them. It was the sound of being erased from a landscape.
 
@@ -3012,11 +3032,13 @@ The search was over. The tall man stepped back, frustration a tight line in his 
 
 The tall man gestured with his head. Kofi walked ahead of him down the corridor, away from the room with the cracked corner, toward a smaller, darker door. As he walked, he felt the weight of the bead not in his pocket, but in his chest. A cool, blue certainty. They were sending the vessel away. But the vessel was no longer empty. It was full of the act of hiding. It was full of the story of the secret itself. And that, he understood as the key turned in another lock behind him, was the only story that could never be filed away. It was the one he would carry, unseen, all the way back into the grey, waiting rain.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The holding room was a cube of stale air and yellowed paint, a space designed to be forgotten. It held a single wooden chair, a smell of damp concrete and old sweat, and a high, barred window that showed a sliver of night sky, bleached of stars by the security lights of the compound. Kofi sat on the chair, his back straight, his hands resting on his knees. He did not sleep. He listened.
 
@@ -3140,11 +3162,13 @@ He picked up a pen. He took a fresh sheet of paper. He would have to be careful.
 
 He began to write. The scratch of the pen was the only sound in the room. Outside, the city held its breath, grey and vast and unknowing. And deep within its brick and mortar, and deep within a compound under a different sky, and deep within the silent space between a brother’s words and a sister’s reading, the seed stirred in its twin darknesses, patient, and certain, and whole.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The rain in London had a different weight to it now. It was no longer a fine, grey mist, but a steady, deliberate fall, a curtain drawing closed. It did not seep; it washed. It streamed down the window of the small, bare room in a terraced house in Finsbury Park, cutting the world into vertical ribbons of moving grey and the stationary, stubborn orange of the streetlamps below.
 
