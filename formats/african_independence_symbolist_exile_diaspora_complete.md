@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The rain in London had a different weight to it. It wasn’t the fat, warm drops of home that fell like a blessing, drumming a steady rhythm on broad leaves before surrendering to the red earth. This rain was a fine, grey mist, a persistent sigh that seeped into wool coats and settled in the bones. It blurred the sharp edges of the buildings along Bayswater Road, turning the world into a watercolour of gloom.
@@ -86,6 +88,8 @@ The rain had started again when Kofi stepped outside. He turned his collar up ag
 
 ---
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The house on Alkham Road did not declare itself. It sat, slumped and soot-stained, at the end of a terrace of similarly weary Victorian buildings. Its neglect was a kind of camouflage; the peeling paint, the one missing slate on the roof like a missing tooth, the small front garden choked with brambles and the skeletal remains of a rose bush. This was not a place of pilgrimage. It was a place forgotten.
@@ -173,6 +177,8 @@ Outside, the dusk had solidified into night. The grimy window was now a black mi
 He began to read, and the London outside, the damp and the distant traffic, fell away. He was no longer in Stoke Newington. He was in the smoke-filled rooms of a past struggle, listening to his father’s furious, heartbroken, unflinching voice. The first knot in the thread that might lead to his father had been found, and it was tied around his own throat.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
